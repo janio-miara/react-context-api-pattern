@@ -27,7 +27,7 @@ const FormUser = () => {
           id="email"
           name="email"
           onClear
-          placeholder="Primeiro nome"
+          placeholder="email@email.com"
         />
         <button>Cadastrar</button>
       </form>
